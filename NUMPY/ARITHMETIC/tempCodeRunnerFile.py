@@ -1,0 +1,6 @@
+print("Maximum is :",np.max(a,b))
+# print("Minimum is :",np.min(a,b))
+# print("SQRT is :",np.sqrt(a,b))
+# print("CBRT is :",np.cbrt(a,b))
+# print("Sine x :",np.sin(a,b))
+# print("Cos x :",np.cos(a,b))

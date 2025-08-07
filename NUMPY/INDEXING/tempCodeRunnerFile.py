@@ -1,0 +1,1 @@
+print("Dimensions of :",arr.ndim)

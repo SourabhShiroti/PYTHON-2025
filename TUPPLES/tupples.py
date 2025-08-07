@@ -1,0 +1,7 @@
+tup=(45,32,12,62,23,78,90)
+print(tup)
+print(tup[0])
+print(tup[1])
+print(tup[2])
+print(tup[3])   
+print(tup[1:3])    

@@ -1,0 +1,16 @@
+st={41,21,20,21,5,85,34,30,72,14,92}
+print("Print the set elements :")
+for i in st:
+    print((i),end=" ")
+print("\n")
+st.add(100)
+st.remove(5)
+print("Added set elements are :",st)
+print("Removed set elements are :",st)
+print("Length of set is :",len(st))
+print("Type of set is :",type(st))
+print("Minimum value of set is :",min(st))
+print("Maximum value of set is :",max(st))
+print("Sum of set is :",sum(st))
+print("Sorted set is :",sorted(st))
+print("Sorted set in reverse order is :",sorted(st,reverse=True))
